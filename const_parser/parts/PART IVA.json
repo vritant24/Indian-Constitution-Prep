@@ -1,0 +1,111 @@
+{
+  "kind": 0,
+  "number": "PART IVA",
+  "text": " FUNDAMENTAL DUTIES",
+  "descriptions": [],
+  "children": [
+    {
+      "kind": 4,
+      "number": "51A.",
+      "text": "Fundamental duties",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "It shall be the duty of every citizen of India-",
+          "descriptions": [
+            "• Duty to obey the constitution"
+          ],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "a.",
+          "text": "to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem;",
+          "descriptions": [
+            "• National anthem",
+            "• National flag"
+          ],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "b.",
+          "text": "to cherish and follow the noble ideals which inspired our national struggle for freedom;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "c.",
+          "text": "to uphold and protect the sovereignty, unity and integrity of India;",
+          "descriptions": [
+            "• Duty to serve in the military"
+          ],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "d.",
+          "text": "to defend the country and render national service when called upon to do so;",
+          "descriptions": [
+            "• Human dignity"
+          ],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "e.",
+          "text": "to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities; to renounce practices derogatory to the dignity of women;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "f.",
+          "text": "to value and preserve the rich heritage of our composite culture;",
+          "descriptions": [
+            "• Protection of environment"
+          ],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "g.",
+          "text": "to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "h.",
+          "text": "to develop the scientific temper, humanism and the spirit of inquiry and reform;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "i.",
+          "text": "to safeguard public property and to abjure violence;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "j.",
+          "text": "to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "k.",
+          "text": "who is a parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

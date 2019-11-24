@@ -1,0 +1,728 @@
+{
+  "kind": 0,
+  "number": "PART IX",
+  "text": " THE PANCHAYATS",
+  "descriptions": [],
+  "children": [
+    {
+      "kind": 4,
+      "number": "243.",
+      "text": "Definitions",
+      "descriptions": [
+        "• Municipal government"
+      ],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "In this Part, unless the context otherwise requires,-",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "a.",
+          "text": "\"district\" means a district in a State;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "b.",
+          "text": "\"Gram  Sabha\"  means  a  body  consisting  of  persons  registered  in  the electoral rolls relating to a village comprised within the area of Panchayat at the village level;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "c.",
+          "text": "\"intermediate level\" means a level between the village and district levels specified by the Governor of a State by public notification to be the intermediate level for the purposes of this Part;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "d.",
+          "text": "\"Panchayat\"   means   an   institution (by   whatever   name   called)   of self-government constituted under article 243B, for the rural areas;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "e.",
+          "text": "\"Panchayat area\" means the territorial area of a Panchayat;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "f.",
+          "text": "\"population\" means the population as ascertained at the last preceding census of which the relevant figures have been published;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "g.",
+          "text": "\"village\" means a village specified by the Governor by public notification to be a village for the purposes of this Part and includes a group of villages so specified.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243A.",
+      "text": "Gram Sabha",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "A Gram Sabha may exercise such powers and perform such functions at the village level as the Legislature of a State may, by law, provide.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243B.",
+      "text": "Constitution of Panchayats",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "There shall be constituted in every State, Panchayats at the village, intermediate and district levels in accordance with the provisions of this Part.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "Notwithstanding anything in clause (1), Panchayats at the intermediate level may not be constituted in a State having a population not exceeding twenty lakhs.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243C.",
+      "text": "Composition of Panchayats",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "Subject to the provisions of this Part, the Legislature of a State may, by law, make provisions with respect to the composition of Panchayats: Provided that the ratio between the population of the territorial area of a Panchayat at any level and the number of seats in such Panchayat to be filled by election shall, so far as practicable, be the same throughout the State.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "All the seats in a Panchayat shall be filled by persons chosen by direct election from territorial constituencies in the Panchayat area and, for this purpose each Panchayat area shall be divided into territorial constituencies in such manner that the ratio between the population of each constituency and the number of seats allotted to it shall, so far as practicable, be the same throughout the Panchayat area.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "The Legislature of a State may, by law, provide for the representation-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "of the Chairpersons of the Panchayats at the village level, in the Panchayats at the intermediate level or, in the case of a State not having Panchayats at the intermediate level, in the Panchayats at the district level;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "of the Chairpersons of the Panchayats at the intermediate level, in the Panchayats at the district level;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "c.",
+              "text": "of the members of the House of the People and the members of the Legislative  Assembly  of  the  State  representing  constituencies  which comprise wholly or partly a Panchayat area at a level other than the village level, in such Panchayat;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "d.",
+              "text": "of the members of the Council of States and the members of the Legislative Council of the State, where they are registered as electors within-",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "i.",
+              "text": "a  Panchayat  area  at  the  intermediate  level,  in  Panchayat  at  the intermediate level;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "ii.",
+              "text": "a Panchayat area at the district level, in Panchayat at the district level.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "The Chairperson of a Panchayat and other members of a Panchayat whether or not chosen by direct election from territorial constituencies in the Panchayat area shall have the right to vote in the meetings of the Panchayats.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "5.",
+          "text": "The Chairperson of-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "a Panchayat at the village level shall be elected in such manner as the Legislature of a State may, by law, provide, and",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "a Panchayat at the intermediate level or district level shall be elected by, and from amongst, the elected members thereof.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243D.",
+      "text": "Reservation of seats",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "Seats shall be reserved for-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "the Scheduled Castes; and",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "the Scheduled Tribes, in every Panchayat and the number of seats so reserved shall bear, as nearly as may be, the same proportion to the total number of seats to be filled by direct election in that Panchayat as the population of the Scheduled Castes in that Panchayat area or of the Scheduled Tribes in that Panchayat area bears to the total population of that area and such seats may be allotted by rotation to different constituencies in a Panchayat.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "Not less than one-third of the total number of seats reserved under clause (1) shall be reserved for women belonging to the Scheduled Castes or, as the case may be, the Scheduled Tribes.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "Not less than one-third (including the number of seats reserved for women belonging to the Scheduled Castes and the Scheduled Tribes) of the total number of seats to be filled by direct election in every Panchayat shall be reserved for women and such seats may be allotted by rotation to different constituencies in a Panchayat.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "The offices of the Chairpersons in the Panchayats at the village or any other level shall be reserved for the Scheduled Castes, the Scheduled Tribes and women in such manner as the Legislature of a State may, by law, provide: Provided that the number of offices of Chairpersons reserved for the Scheduled Castes and the Scheduled Tribes in the Panchayats at each level in any State shall bear, as nearly as may be, the same proportion to the total number of such offices in the Panchayats at each level as the population of the Scheduled Castes in the State or of the Scheduled Tribes in the State bears to the total population of the State: Provided further that not less than one-third of the total number of offices of Chairpersons in the Panchayats at each level shall be reserved for women: Provided also that the number of offices reserved under this clause shall be allotted by rotation to different Panchayats at each level.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "5.",
+          "text": "The reservation of seats under clauses (1) and (2) and the reservation of offices of Chairpersons (other than the reservation for women) under clause (4) shall cease to have effect on the expiration of the period specified in article 334.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "6.",
+          "text": "Nothing in this Part shall prevent the Legislature of a State from making any provision for reservation of seats in any Panchayat or offices of Chairpersons in the Panchayats at any level in favour of backward class of citizens.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243E.",
+      "text": "Duration of Panchayats etc",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "Every Panchayat, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "No amendment of any law for the time being in force shall have the effect of causing dissolution of a Panchayat at any level, which is functioning immediately before such amendment, till the expiration of its duration specified in clause (1).",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "An election to constitute a Panchayat shall be completed-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "before the expiry of its duration specified in clause (1)",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "before the expiration of a period of six months from the date of its dissolution: Provided that where the remainder of the period for which the dissolved Panchayat would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Panchayat for such period.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "A  Panchayat  constituted  upon  the  dissolution  of  a  Panchayat  before  the expiration of its duration shall continue only for the remainder of the period for which the dissolved Panchayat would have continued under clause (1) had it not been so dissolved.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243F.",
+      "text": "Disqualifications for membership",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "A person shall be disqualified for being chosen as, and for being, a member of a Panchayat-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "if he is so disqualified by or under any law for the time being in force for the purposes of elections to the Legislature of the State concerned: Provided that no person shall be disqualified on the ground that he is less than twenty-five years of age, if he has attained the age of twenty-one years;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "if he is so disqualified by or under any law made by the Legislature of the State.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "If any question arises as to whether a member of a Panchayat has become subject to any of the disqualifications mentioned in clause (1), the question shall be referred for the decision of such authority and in such manner as the Legislature of a State may, by law, provide.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243G.",
+      "text": "Powers, authority and responsibilities of Panchayat",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "Subject to the provisions of the Constitution, the Legislature of a State may, by law, endow the Panchayats with such powers and authority as may be necessary to enable them to function as institutions of self-government and such law may contain provisions for the devolution of powers and responsibilities upon Panchayats at the appropriate level, subject to such conditions as may be specified therein, with respect to-",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "a.",
+          "text": "the preparation of plans for economic development and social justice;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "b.",
+          "text": "the implementation of schemes for economic development and social justice as may be entrusted to them including those in relation to the matters listed in the Eleventh Schedule.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243H.",
+      "text": "Powers to impose taxes by, and Funds of, the Panchayats",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "The Legislature of a State may, by law-",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "a.",
+          "text": "authorise a Panchayat to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "b.",
+          "text": "assign to a Panchayat such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "c.",
+          "text": "provide  for  making  such  grants-in-aid  to  the  Panchayats  from  the Consolidated Fund of the State; and",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "d.",
+          "text": "provide for constitution of such Funds for crediting all moneys received, respectively, by or on behalf of the Panchayats and also for the withdrawal of such moneys therefrom, as may be specified in the law.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243I.",
+      "text": "Constitution of Finance Commission to review financial position",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "The Governor of a State shall, as soon as may be within one year from the commencement of the Constitution (Seventy-third Amendment) Act, 1992, and thereafter at the expiration of every fifth year, constitute a Finance Commission to   review   the   financial   position   of   the   Panchayats   and   to   make recommendations to the Governor as to-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "the principles which should govern-",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "i.",
+              "text": "the distribution between the State and the Panchayats of the net proceeds of the taxes, duties, tolls and fees leviable by the State, which may the divided between them under this Part and the allocation between the panchayats at all levels of their respective shares of such proceeds;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "ii.",
+              "text": "the determination of the taxes, duties, tolls and fees which may be assigned to, or appropriated by, the Panchayats;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "iii.",
+              "text": "the grants-in-aid to the Panchayats from the Consolidated Fund of the State;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "the measures needed to improve the financial position of the Panchayats;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "c.",
+              "text": "any other matter referred to the Finance Commission by the Governor in the interests of sound finance of the Panchayats.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "The Legislature of a State may, by law, provide for the composition of the Commission, the qualifications which shall be requisite for appointment as members thereof and the manner in which they shall be selected.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "The Commission shall determine their procedure and shall have such powers in the performance of their functions as the Legislature of the State may, by law, confer on them.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "The Governor shall cause every recommendation made by the Commission under this article together with as explanatory memorandum as to the action taken thereon to be laid before the Legislature of the State.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243J.",
+      "text": "Audit of accounts of Panchayats",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "The Legislature of a State may, by law, make provisions with respect to the maintenance of accounts by the Panchayats and the auditing of such accounts.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243K.",
+      "text": "Elections to the Panchayats",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "The superintendence, direction and control of the preparation of electoral rolls for, and the conduct of, all elections to the Panchayats shall be vested in a State Election  Commission  consisting  of  a  State  Election  Commissioner  to  be appointed by the Governor.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "Subject to the provisions of any law made by the Legislature of a State, the conditions of service and tenure of office of the State Election Commissioner shall be such as the Governor may by rule determine: Provided that the State Election. Commissioner shall not be removed from his office except in like manner and on the like grounds as a Judge of a High Court and the conditions of service of the State Election Commissioner shall not be varied to his disadvantage after his appointment.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "The  Governor  of  a  State  shall,  when  so  requested  by  the  State  Election Commission, make available to the State Election Commission such staff as may be necessary for the discharge of the functions conferred on the State Election Commission by clause (1).",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "Subject to the provisions of this Constitution, the Legislature of a State may, by law, make provision with respect to all matters relating to, or in connection with, elections to the Panchayats.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243L.",
+      "text": "Application to Union territories",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "The provisions of this Part shall apply to the Union territories and shall, in their application to a Union territory, have effect as if the references to the Governor of a State were reference to the Administrator of the Union territory appointed under article 239 and references to the Legislature or the Legislative Assembly of a State were references, in relation to a Union territory having a Legislative Assembly, to that Legislative Assembly: Provided that the President may, by public notification, direct that the provisions of this Part shall apply to any Union territory or part thereof subject to such exceptions and modifications as he may specify in the notification.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243M.",
+      "text": "Part not to apply to certain areas",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "Nothing in this part shall apply to the Scheduled Areas referred to in clause (1), and the tribal areas referred to in clause (2), of article 244.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "Nothing in this Part shall apply to-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "the States of Nagaland, Meghalaya and Mizoram;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "the Hill Areas in the State of Manipur for which District Councils exist under any law for the time being in force.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "Nothing in this part-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "relating to Panchayats at the district level shall apply to the hill areas of the District of Darjeeling in the State of West Bengal for which Darjeeling Gorkha Hill Council exists under any law for the time being in force;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "Shall be construed to affect the functions and powers of the Darjeeling Gorkha Hill Council constituted under such law.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "3A.",
+          "text": "Nothing in article 243D, relating to reservation of seats for the Scheduled Castes, shall apply to the State of Arunachal Pradesh.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "Notwithstanding anything in this Constitution,-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "the Legislature of a State referred to in sub-clause (a) of clause (2) may, by law, extend this Part to that State, except the areas, if any, referred to in clause (1), if the Legislative Assembly of that State passes a resolution to that effect by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "Parliament may, by law extend the provisions of this Part to the Scheduled Areas and the Tribal Areas referred to in clause (1) subject to such exceptions and modifications as may be specified in such law, and no such law shall be deemed to be an amendment of this Constitution for the purposes of article 368.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243N.",
+      "text": "Continuance of existing laws and Panchayats",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "Notwithstanding  anything  in  this  Part,  any  provision  of  any  law  relating  to Panchayats in force in a State immediately before the commencement of the Constitution (Seventy-third Amendment) Act, 1992, which is inconsistent with the provisions of this Part, shall continue to be in force until amended or repealed by a competent Legislature or other competent authority or until the expiration of one year from such commencement, whichever is earlier: Provided that all the Panchayats existing immediately before such commencement shall continue till the expiration of their duration, unless sooner dissolved by a resolution passed to that effect by the Legislative Assembly of that State or, in the case of a State having a Legislative Council, by each House of the Legislature of that State.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243O.",
+      "text": "Bar to interference by courts in electoral matters",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "Notwithstanding anything in this Constitution,-",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "a.",
+          "text": "the validity of any law relating to the delimitation of constituencies or the allotment of seats to such constituencies, made or purporting to be made under article 243K, shall not be called in question in any court;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "b.",
+          "text": "no election to any Panchayat shall be called in question except by an election petition presented to such authority and in such manner as is provided for by or under any law made by the Legislature of a State.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

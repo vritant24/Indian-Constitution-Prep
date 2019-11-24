@@ -8,19 +8,22 @@ namespace const_parser
     class Parser
     {
         private Lexer lexer;
+        private DescriptionProvider descriptionProvider;
 
         public Parser(string filePath)
         {
             this.lexer = new Lexer(filePath);
+            this.descriptionProvider = new DescriptionProvider();
         }
 
         public void RunParser()
         {
             var i = 0;
-            while (i++ < 1)
+            const string path = @"C:\Users\Administrator\source\repos\const_parser\const_parser\parts\";
+            while (i++ < 27)
             {
                 var part = this.ParsePart();
-                Console.WriteLine(part);
+                if(part!=null) NodeWriter.WriteNode(path + $"{part.Number}.json", part);
             }
         }
 
@@ -49,6 +52,7 @@ namespace const_parser
             var nextType = this.lexer.PeekNextElement().Type;
             while (string.Equals(nextType, "7"))
             {
+                node.Descriptions = this.descriptionProvider.GetDescList();
                 var nextEl = this.lexer.GetNextElement();
 
                 node.Text += " " + nextEl.Text;
@@ -59,24 +63,29 @@ namespace const_parser
 
             ParseDescription();
             var nextKind = this.GetKind(this.lexer.PeekNextElement());
-            while (nextKind != Kinds.Article && nextKind != Kinds.Part && nextKind != Kinds.Schedule)
+            while (nextKind != Kinds.Article && nextKind != Kinds.Part && nextKind != Kinds.Schedule && nextKind != Kinds.Category)
             {
+                Node nodeToAdd = null;
+                var descs = this.descriptionProvider.GetDescList();
                 switch (nextKind)
                 {
                     case Kinds.Text:
-                        node.Children.AddLast(ParseText());
+                        nodeToAdd = ParseText(true);
                         break;
                     case Kinds.Clause:
-                        node.Children.AddLast(ParseClause());
+                        nodeToAdd = ParseClause();
                         break;
                     case Kinds.Sub_Clause:
-                        this.lexer.GetNextElement();
+                        nodeToAdd = ParseSubClause();
+                        break;
+                    case Kinds.Explanation:
+                        nodeToAdd = ParseExplanation();
                         break;
                     default:
-                        /*throw new Exception($"{el} | expected category or article");*/
-                        this.lexer.GetNextElement();
-                        break;
+                        throw new Exception($"{el} | expected category or article");
                 }
+                nodeToAdd.Descriptions = descs;
+                node.Children.AddLast(nodeToAdd);
                 ParseDescription();
                 nextKind = this.GetKind(this.lexer.PeekNextElement());
             }
@@ -87,12 +96,13 @@ namespace const_parser
 
         private void ParseDescription()
         {
+            var list = new LinkedList<string>();
             var nextKind = this.GetKind(this.lexer.PeekNextElement());
             while (nextKind == Kinds.Description)
             {
                 var nextEl = this.lexer.GetNextElement();
 
-                //node.Text += " " + nextEl.Text;
+                this.descriptionProvider.AddDesc(nextEl.Text);
 
                 nextKind = this.GetKind(this.lexer.PeekNextElement());
             }
@@ -104,19 +114,28 @@ namespace const_parser
             var k = this.GetKind(el);
             AssertEqual(k, Kinds.Clause);
 
-            var textEl = ParseText();
-
             var node = new Node(k)
             {
-                Text = textEl.Text,
                 Number = el.Text
             };
 
             ParseDescription();
             var nextKind = this.GetKind(this.lexer.PeekNextElement());
+            if(nextKind == Kinds.Text)
+            {
+                node.Text = ParseText(false).Text;
+            }
+            node.Descriptions = this.descriptionProvider.GetDescList();
+
+            ParseDescription();
+            nextKind = this.GetKind(this.lexer.PeekNextElement());
             while (nextKind == Kinds.Sub_Clause)
             {
-                node.Children.AddLast(ParseSubClause());
+                var descs = this.descriptionProvider.GetDescList();
+                var nodeToAdd = ParseSubClause();
+                nodeToAdd.Descriptions = descs;
+                node.Children.AddLast(nodeToAdd);
+
                 ParseDescription();
                 nextKind = this.GetKind(this.lexer.PeekNextElement());
             }
@@ -130,30 +149,52 @@ namespace const_parser
             var k = this.GetKind(el);
             AssertEqual(k, Kinds.Sub_Clause);
 
-            var textEl = ParseText();
-
             var node = new Node(k)
             {
-                Text = textEl.Text,
                 Number = el.Text
             };
 
-            ParseDescription();
             var nextKind = this.GetKind(this.lexer.PeekNextElement());
-            while (nextKind == Kinds.Sub_Sub_Clause)
+            if(nextKind == Kinds.Text)
             {
-                //node.Children.AddLast(parseSubClause());
-                this.lexer.GetNextElement();
-                ParseDescription();
-                nextKind = this.GetKind(this.lexer.PeekNextElement());
+                node.Text = ParseText(false).Text;
+                node.Descriptions = this.descriptionProvider.GetDescList();
+            } else if (nextKind == Kinds.Sub_Clause)
+            {
+                var descs = this.descriptionProvider.GetDescList();
+                node.Children.AddLast(ParseSubClause());
+                node.Descriptions = descs;
+            } else
+            {
+                throw new Exception($"{nextKind} not supported after clause");
             }
 
             return node;
         }
 
-        private Node parseSubClause()
+        private Node ParseExplanation()
         {
-            return null;
+            var el = this.lexer.GetNextElement();
+            var k = this.GetKind(el);
+            AssertEqual(k, Kinds.Explanation);
+
+            var node = new Node(k)
+            {
+                Number = el.Text
+            };
+
+            var nextKind = this.GetKind(this.lexer.PeekNextElement());
+            while (nextKind == Kinds.Text)
+            {
+                node.Text = ParseText(false).Text;
+
+                ParseDescription();
+                nextKind = this.GetKind(this.lexer.PeekNextElement());
+            }
+
+            node.Descriptions = this.descriptionProvider.GetDescList();
+
+            return node;
         }
 
         private Node ParseCategory()
@@ -171,17 +212,19 @@ namespace const_parser
             var nextKind = this.GetKind(this.lexer.PeekNextElement());
             while (nextKind == Kinds.Article)
             {
-                node.Children.AddLast(ParseArticle());
+                var descs = this.descriptionProvider.GetDescList();
+                var nodeToAdd = ParseArticle();
+                nodeToAdd.Descriptions = descs;
+                node.Children.AddLast(nodeToAdd);
+
                 ParseDescription();
                 nextKind = this.GetKind(this.lexer.PeekNextElement());
             }
 
-
-
             return node;
         }
 
-        private Node ParseText()
+        private Node ParseText(bool storeDesc)
         {
             var el = this.lexer.GetNextElement();
             var k = this.GetKind(el);
@@ -203,53 +246,58 @@ namespace const_parser
                 ParseDescription();
                 nextKind = this.GetKind(this.lexer.PeekNextElement());
             }
-
+            if(storeDesc)
+                node.Descriptions = this.descriptionProvider.GetDescList();
             return node;
         }
 
         private Node ParsePart()
         {
             var el = this.lexer.GetNextElement();
+            if (this.GetKind(el) == Kinds.Schedule) return null;
             AssertEqual(this.GetKind(el), Kinds.Part);
+
+            var index = el.Text.IndexOf(":");
             var node = new Node(this.GetKind(el))
             {
-                Text = el.Text
+                Text = el.Text.Substring(index + 1),
+                Number = el.Text.Substring(0, index)
             };
 
             ParseDescription();
             var nextType = this.lexer.PeekNextElement().Type;
             while (string.Equals(nextType, "9"))
             {
-                var nextEl = this.lexer.GetNextElement();
-
-                node.Text += " " + nextEl.Text;
-
+                node.Text += " " + this.lexer.GetNextElement().Text;
+                node.Descriptions = this.descriptionProvider.GetDescList();
                 ParseDescription();
                 nextType = this.lexer.PeekNextElement().Type;
             }
 
             ParseDescription();
-            var nextKind = this.GetKind(this.lexer.PeekNextElement());
-            while (nextKind != Kinds.Part && nextKind != Kinds.Schedule)
+            var nextEl = this.lexer.PeekNextElement();
+            while (this.GetKind(nextEl) != Kinds.Part && this.GetKind(nextEl) != Kinds.Schedule)
             {
-                switch (nextKind)
+                var descs = this.descriptionProvider.GetDescList();
+                Node nodeToAdd;
+                switch (this.GetKind(nextEl))
                 {
                     case Kinds.Category:
-                        node.Children.AddLast(ParseCategory());
+                        nodeToAdd = ParseCategory();
                         break;
                     case Kinds.Article:
-                        node.Children.AddLast(ParseArticle());
+                        nodeToAdd = ParseArticle();
                         break;
-                    case Kinds.Description:
-                        this.lexer.GetNextElement();
+                    case Kinds.Text:
+                        nodeToAdd = ParseText(true);
                         break;
                     default:
-                        /*throw new Exception($"{el} | expected category or article");*/
-                        this.lexer.GetNextElement();
-                        break;
+                        throw new Exception($"{nextEl} | expected category or article");
                 }
+                nodeToAdd.Descriptions = descs;
+                node.Children.AddLast(nodeToAdd);
                 ParseDescription();
-                nextKind = this.GetKind(this.lexer.PeekNextElement());
+                nextEl = this.lexer.PeekNextElement();
             }
 
             return node;
@@ -258,6 +306,7 @@ namespace const_parser
         private Kinds GetKind(Element el)
         {
             var numberRegEx = new Regex("^([0-9])");
+            var alphRegEx = new Regex("^([a-z])");
             switch (el.Type)
             {
                 case "9":

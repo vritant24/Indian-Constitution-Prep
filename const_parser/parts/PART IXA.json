@@ -1,0 +1,727 @@
+{
+  "kind": 0,
+  "number": "PART IXA",
+  "text": " THE MUNICIPALITIES",
+  "descriptions": [],
+  "children": [
+    {
+      "kind": 4,
+      "number": "243P.",
+      "text": "Definitions",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "In this Part, unless the context otherwise requires,-",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "a.",
+          "text": "\"Committee\" means a Committee constituted under article 243S;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "b.",
+          "text": "\"district\" means a district in a State;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "c.",
+          "text": "\"Metropolitan area\" means an area having a population of ten lakhs or more, comprised in one or more districts and consisting of two or more Municipalities or Panchayats or other contiguous areas, specified by the Governor by public notification to be a Metropolitan area for the purposes of this Part;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "d.",
+          "text": "\"Municipal area\" means the territorial area of a Municipality as is notified by the Governor;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "e.",
+          "text": "\"Municipality\" means an institution of self-government constituted under article 243Q;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "f.",
+          "text": "\"Panchayat\" means a Panchayat constituted under article 243B;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "g.",
+          "text": "\"population\" means the population as ascertained at the last preceding census of which the relevant figures have been published.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243Q.",
+      "text": "Constitution of Municipalities",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "There shall be constituted in every State,-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "A Nagar Panchayat (by whatever name called) for transitional area, that is to say, an area in transition from a rural area to an urban area;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "a Municipal Council for a smaller urban area; and",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "c.",
+              "text": "a Municipal Corporation for a larger urban area, in accordance with the provisions of this Part: Provided that a Municipality under this clause may not be constituted in such urban area or part thereof as the Governor may, having regard to the size of the area and the municipal services being provided or proposed to be provided by an industrial establishment in that area and such other factors as he may deem fit, by public notification, specify to be an industrial township.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "In this article, \"a transitional area\", \"a smaller urban area\" or \"a larger urban area\" means such area as the Governor may, having regard to the population of the area, the density of the population therein, the revenue generated for local administration, the percentage of employment in non-agricultural activities, the economic importance or such other factors as he may deem fit, specify by public notification for the purposes of this Part.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243R.",
+      "text": "Composition of Municipalities",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "Save as provided in clause (2), all the seats in a Municipality shall be filled by persons chosen by direct election from the territorial constituencies in the Municipal area and for this purpose each Municipal area shall be divided into territorial constituencies to be known as wards.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "The Legislature of a State may, by law, provide-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "for the representation in a Municipality of-",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "i.",
+              "text": "persons   having   special   knowledge   or   experience   in   Municipal administration;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "ii.",
+              "text": "the members of the House of the People and the members of the Legislative Assembly of the State representing constituencies which comprise wholly or partly the Municipal area;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "iii.",
+              "text": "the  members  of  the  Council  of  States  and  the  members  of  the Legislative Council of the State registered as electors within the Municipal area;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "iv.",
+              "text": "the Chairpersons of the Committees constituted under clause (5) of article 243S: Provided that the persons referred to in paragraph (i) shall not have the right to vote in the meetings of the Municipality;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "the manner of election of the Chairperson of a Municipality.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243S.",
+      "text": "Constitution and composition of Wards Committees, etc",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "There shall be constituted Wards Committees, consisting of one or more wards, within the territorial area of a Municipality having a population of three lakhs or more.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "The Legislature of a State may, by law, make provision with respect to-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "the composition and the territorial area of a Wards Committee;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "the manner in which the seats in a Wards Committee shall be filled.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "A member of a Municipality representing a ward within the territorial area of the Wards Committee shall be a member of that Committee.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "Where a Wards Committee consists of-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "One ward, the member representing that ward in the Municipality; or",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "two or more wards, one of the members representing such wards in the Municipality elected by the members of the Wards Committee. Shall be the Chairperson of that Committee.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "5.",
+          "text": "Nothing in this article shall be deemed to prevent the Legislature of a State from making provision for the constitution of Committees in addition to the Wards Committees.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243T.",
+      "text": "Reservation of seats",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes in every Municipality and the number of seats so reserved shall bear, as nearly as may be, the same proportion to the total number of seats to be filed by direct election in that Municipality as the population of the Scheduled Castes in the Municipal area or of the Scheduled Tribes in the Municipal area bears to the total population in that area and such seats may be allotted by rotation to different constituencies in a municipality.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "Not less than one-third of the total number of seats reserved under clause (1) shall be reserved for women belonging to the Scheduled Castes or, as the case may be, the Scheduled Tribes.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "Not less than one-third (including the number of seats reserved for women belonging to the Scheduled Castes and the Scheduled Tribes) of the total number of seats to be filled by direct election in every Municipality shall be reserved for women and such seats may be allotted by rotation to different constituencies in a Municipality.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "The offices of Chairpersons in the Municipalities shall be reserved for the Scheduled Castes, the Scheduled Tribes and women in such manner as the Legislature of a State may, by law, provide.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "5.",
+          "text": "The reservation of seats under clauses (1) and (2) and the reservation of offices of Chairpersons (other than the reservation for women) under clause (4) shall cease to have effect on the expiration of the period specified in article 334.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "6.",
+          "text": "Nothing in this Part shall prevent the Legislature of a State from making any provision for reservation of seats in any Municipality or offices of Chairpersons in the Municipalities in favour of backward class of citizens.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243U.",
+      "text": "Duration of Municipalities, etc",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "Every Municipality, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer: Provided that a Municipality shall be given a reasonable opportunity of being heard before its dissolution.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "No amendment of any law for the time being in force shall have the effect of causing  dissolution  of  a  Municipality  at  any  level,  which  is  functioning immediately before such amendment, till the expiration of its duration specified in clause (1).",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "An election to constitute a Municipality shall be completed,-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "before the expiry of its duration specified in clause (1);",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "before the expiration of a period of six months from the date of its dissolution: Provided that where the remainder of the period for which the dissolved Municipality would have continued is less than six months, it shall not be necessary to hold any election under this clause for constituting the Municipality for such period.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "A Municipality constituted upon the dissolution of a Municipality before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Municipality would have continued under clause (1) had it not been so dissolved.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243V.",
+      "text": "Disqualifications for membership",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "A persons shall be disqualified for being chosen as, and for being, a member of a Municipality-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "if he is so disqualified by or under any law for the time being in force for the purposes of elections to the Legislature of the State concerned: Provided that no person shall be disqualified on the ground that he is less than twenty-five years of age, if he has attained the age of twenty-one years;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "if he is so disqualified by or under any law made by the Legislature of the State.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "If any question arises as to whether a member of a Municipality has become subject to any of the disqualifications mentioned in clause (1), the question shall be referred for the decision of such authority and in such manner as the Legislature of a State may, by law, provide.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243W.",
+      "text": "Powers, authority and responsibilities of Municipalities, etc",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "Subject to the provisions of this Constitution, the Legislature of a State may, by law, endow-",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "a.",
+          "text": "the Municipalities with such powers and authority as may be necessary to enable them to function as institutions of self-government and such law may contain provisions for the devolution of powers and responsibilities upon Municipalities, subject to such conditions as may be specified therein, with respect to-",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "i.",
+          "text": "the preparation of plans for economic development and social justice;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "ii.",
+          "text": "the performance of functions and the implementation of schemes as may be entrusted to them including those in relation to the matters listed in the Twelfth Schedule;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "b.",
+          "text": "the Committees with such powers and authority as may be necessary to enable them to carry out the responsibilities conferred upon them including those in relation to the matters listed in the Twelfth Schedule.",
+          "descriptions": [
+            "• Municipal government"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243X.",
+      "text": "Power to impose taxes by, and Funds of, the Municipalities",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "The Legislature of a State may, by law-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "authorise a Municipality to levy, collect and appropriate such taxes, duties, tolls and fees in accordance with such procedure and subject to such limits;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "assign to a Municipality such taxes, duties, tolls and fees levied and collected by the State Government for such purposes and subject to such conditions and limits;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "c.",
+              "text": "provide  for  making  such  grants-in-aid  to  the  Municipalities  from  the Consolidated Fund of the State; and",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "d.",
+              "text": "provide for constitution of such Funds for crediting all moneys received, respectively,  by  or  on  behalf  of  the  Municipalities  and  also  for  the withdrawal of such moneys therefrom, as may be specified in the law.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "The Legislature of a State may, by law, make provision with respect to-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "the composition of the District Planning Committees;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "the manner in which the seats in such Committees shall be filled: Provided that not less than four-fifths of the total number of members of such  Committee  shall  be  elected  by,  and  from  amongst,  the  elected members of the Panchayat at the district level and of the Municipalities in the district in proportion to the ratio between the population of the rural areas and of the urban areas in the district;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "c.",
+              "text": "the functions relating to district planning which may be assigned to such Committees;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "d.",
+              "text": "the manner in which the Chairpersons of such Committees shall be chosen.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "Every District Planning Committee shall, in preparing the draft development plan,-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "have regard to-",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "i.",
+              "text": "matters  of  common  interest  between  the  Panchayats  and  the Municipalities including spatial planning, sharing of water and other physical  and  natural  resources,  the  integrated  development  of infrastructure and environmental conservation;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "ii.",
+              "text": "the  extent  and  type  of  available  resources  whether  financial  or otherwise;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "consult such institutions and organisations as the Governor may, by order, specify.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "The  Chairperson  of  every  District  Planning  Committee  shall  forward  the development plan, as recommended by such Committee, to the Government of the State.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243ZE.",
+      "text": "Committee for Metropolitan planning",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 6,
+          "number": "1.",
+          "text": "There shall be constituted in every Metropolitan area a Metropolitan Planning Committee to prepare a draft development plan for the Metropolitan area as a whole.",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 6,
+          "number": "2.",
+          "text": "The Legislature of a State may, by law, make provision with respect to-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "the composition of the Metropolitan Planning Committees;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "the manner in which the seats in such Committees shall be filled: Provided that not less than two-thirds of the members of such Committee shall  be  elected  by,  and  from  amongst,  the  elected  members  of  the Municipalities and Chairpersons of the Panchayats in the Metropolitan area in proportion to the ratio between the population of the Municipalities and of the Panchayats in that area;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "c.",
+              "text": "the representation in such Committees of the Government of India and the Government of the State and of such organisations and institutions as may be deemed necessary for carrying out the functions assigned to such Committees;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "d.",
+              "text": "the functions relating to planning and co-ordination for the Metropolitan area which may be assigned to such Committees;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "e.",
+              "text": "the manner in which the Chairpersons of such Committees shall be chosen.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "3.",
+          "text": "Every   Metropolitan   Planning   Committee   shall,   in   preparing   the   draft development plan,-",
+          "descriptions": [],
+          "children": [
+            {
+              "kind": 7,
+              "number": "a.",
+              "text": "have regard to-",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "i.",
+              "text": "the plans prepared by the Municipalities and the Panchayats in the Metropolitan area;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "ii.",
+              "text": "matters  of  common  interest  between  the  Municipalities  and  the Panchayats,  including  co-ordinated  spatial  planning  of  the  area, sharing  of  water  and  other  physical  and  natural  resources,  the integrated   development   of   infrastructure   and   environmental conservation;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "iii.",
+              "text": "the overall objectives and priorities set by the Government of India and the Government of the State;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "iv.",
+              "text": "the  extent  and  nature  of  investments  likely  to  be  made  in  the Metropolitan area by agencies of the Government of India and of the Government  of  the  State  and  other  available  resources  whether financial or otherwise;",
+              "descriptions": [],
+              "children": []
+            },
+            {
+              "kind": 7,
+              "number": "b.",
+              "text": "consult such institutions and organisations as the Governor may, by order, specify.",
+              "descriptions": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": 6,
+          "number": "4.",
+          "text": "The Chairperson of every Metropolitan Planning Committee shall forward the development plan, as recommended by such Committee, to the Government of the State.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243ZF.",
+      "text": "Continuance of existing laws and Municipalities",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "Notwithstanding  anything  in  this  Part,  any  provision  of  any  law  relating  to Municipalities in force in a State immediately before the commencement of the Constitution (Seventy-fourth Amendment) Act, 1992, which is inconsistent with the provisions of this Part, shall continue to be in force until amended or repealed by a competent Legislature or other competent authority or until the expiration of one year from such commencement, whichever is earlier: Provided   that   all   the   Municipalities   existing   immediately   before   such commencement shall continue till the expiration of their duration, unless sooner dissolved by a resolution passed to that effect by the Legislative Assembly of that State or, in the case of a State having a Legislative Council, by each House of the Legislature of that State.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    },
+    {
+      "kind": 4,
+      "number": "243ZG.",
+      "text": "Bar to interference by courts in electoral matters",
+      "descriptions": [],
+      "children": [
+        {
+          "kind": 5,
+          "number": "",
+          "text": "Notwithstanding anything in this Constitution,-",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "a.",
+          "text": "the validity of any law relating to the delimitation of constituencies or the allotment of seats to such constituencies, made or purporting to be made under article 243ZF shall not be called in question in any court;",
+          "descriptions": [],
+          "children": []
+        },
+        {
+          "kind": 7,
+          "number": "b.",
+          "text": "no election to any Municipality shall be called in question except by an election petition presented to such authority and in such manner as is provided for by or under any law made by the Legislature of a State.",
+          "descriptions": [],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

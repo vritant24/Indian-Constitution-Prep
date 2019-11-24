@@ -9,14 +9,27 @@ namespace const_parser
     {
         public Kinds Kind { get; private set; }
         public string Number;
-        public LinkedList<string> Descriptions;
+
+        private readonly LinkedList<string> descriptions;
+        public LinkedList<string> Descriptions
+        {
+            get => this.descriptions;
+            set
+            {
+                foreach (var desc in value)
+                {
+                    this.descriptions.AddLast(desc);
+                }
+            }
+        }
+
         public LinkedList<Node> Children;
         public string Text;
         public Node(Kinds kind)
         {
             this.Kind = kind;
             this.Children = new LinkedList<Node>();
-            this.Descriptions = new LinkedList<string>();
+            this.descriptions = new LinkedList<string>();
             this.Number = "";
         }
 
